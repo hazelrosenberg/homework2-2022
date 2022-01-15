@@ -73,7 +73,7 @@ div {
 }
 
 .green {
-    background-color: #00A800;
+    background-color: #008000;
     text-align: left;
     margin-right: 50px;
     border: 0;
@@ -83,7 +83,7 @@ div {
 
 span {
     text-decoration: underline;
-    text-transform: capitalize;
+    text-transform: uppercase;
     text-shadow: none;
 }
 
